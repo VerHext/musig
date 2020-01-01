@@ -9,4 +9,4 @@ USER gitpod
 #
 # More information: https://www.gitpod.io/docs/42_config_docker/
 
-RUN apt install portaudio19-dev -y
+RUN sudo apt install portaudio19-dev -y
